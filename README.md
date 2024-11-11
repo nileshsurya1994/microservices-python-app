@@ -3,6 +3,8 @@ Converting mp4 videos to mp3 in a microservices architecture.
 
 ## Architecture
 
+https://www.linkedin.com/feed/update/urn:li:activity:7254831274253504513/
+
 <p align="center">
   <img src="./Project documentation/python-app-project.gif" width="600" title="Architecture" alt="Architecture">
   </p>
